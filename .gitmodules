@@ -5,3 +5,6 @@
 [submodule "clintrialx"]
 	path = clintrialx
 	url = https://github.com/ineelhere/clintrialx
+[submodule "shiny.ollama"]
+	path = shiny.ollama
+	url = https://github.com/ineelhere/shiny.ollama
